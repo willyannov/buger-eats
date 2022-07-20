@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Willyan Moraes",
+        "cpf": "00000014141",
+        "email": "willyan@hotmail.com",
+        "whatsapp": "11999999999",
+        "adress": {
+            "postalcode": "18552100",
+            "street": "Avenida do Trabalhador",
+            "number": "50",
+            "details": "Chacara",
+            "district": "Centro Empresarial Castelo Branco",
+            "city_uf": "Boituva/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+    "cpf_inv": {
+        "name": "Willyan Moraes",
+        "cpf": "000000141AA",
+        "email": "willyan@hotmail.com",
+        "whatsapp": "11999999999",
+        "adress": {
+            "postalcode": "18552100",
+            "street": "Avenida do Trabalhador",
+            "number": "50",
+            "details": "Chacara",
+            "district": "Centro Empresarial Castelo Branco",
+            "city_uf": "Boituva/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+     "email_inv": {
+        "name": "Willyan Moraes",
+        "cpf": "00000014141",
+        "email": "willyan.hotmail.com",
+        "whatsapp": "11999999999",
+        "adress": {
+            "postalcode": "18552100",
+            "street": "Avenida do Trabalhador",
+            "number": "50",
+            "details": "Chacara",
+            "district": "Centro Empresarial Castelo Branco",
+            "city_uf": "Boituva/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    }
+}
