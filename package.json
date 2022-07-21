@@ -1,7 +1,7 @@
 {
   "name": "burgereat",
   "version": "1.0.0",
-  "description": "Projeto de teste ",
+  "description": "Projeto de teste burgereat",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
