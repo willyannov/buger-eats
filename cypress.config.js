@@ -8,7 +8,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       return require('./cypress/plugins/index.js')(on, config)
     },
-    baseUrl: 'https://buger-eats-qa.vercel.app',
-    specPattern: 'cypress/e2e/**/*.{js,jsx,ts,tsx}',
+    baseUrl: 'https://bugbank.netlify.app',
+   
   },
 })
