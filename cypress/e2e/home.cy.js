@@ -8,11 +8,12 @@ describe('Bugbank user', () => {
         bankdata.go()
     });
 
-    it('register account', () => {
+    it.only('register account', () => {
         var user= signupdata.user()
 
         bankdata.go()
         bankdata.register(user)
+        bankdata.registerbtn()
 
 
     });
@@ -23,9 +24,10 @@ describe('Bugbank user', () => {
 
         bankdata.go()
         bankdata.signin(user)
-        bankdata.logout()
+        bankdata.logoutbtn()
     });
 
+   
 
     
 });
